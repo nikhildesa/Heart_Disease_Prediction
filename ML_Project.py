@@ -56,11 +56,6 @@ y_test = test.target.values
 
 
 
-#<----------- Data visualization------->
-
-
-
-
 
 #<--------logistic regression------->
 model = LogisticRegression()
