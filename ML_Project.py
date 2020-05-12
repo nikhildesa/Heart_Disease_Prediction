@@ -21,7 +21,7 @@ from sklearn import svm
 from sklearn import tree
 import seaborn as sns
 
-#<---------dataset-------->
+#<---------datasets-------->
 df = pd.read_csv("Data.csv")
 df.head()
 accuracy = dict()
